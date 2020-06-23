@@ -1,5 +1,16 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Vadym Motsukh
+subtitle: Sr. Full-Stask Software Engineer
+email: vadym.motsukh@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  professionally working with Ruby, Python, JS, EmberJS, ReactJS, NodeJS,
+  MySQL, PostgreSQL, NoSql, MongoDB, git, CSS and other related WEB technologies since 2012.
+# baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: VadymMotsukh
+github_username:  begin29
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+
+linkedin:
+CV:
